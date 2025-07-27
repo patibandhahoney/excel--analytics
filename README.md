@@ -50,7 +50,7 @@ This project was developed as a team collaboration during our internship at **Zi
 
 - **Honey** - Make Fullfront-end 
 - **Iqbal** – API integration  
-- **Vaun Krishna** – Data visualization 
+- **Varun Krishna** – Data visualization 
 - **Amruta** – Make Full back-end Interation 
 
 We worked together to plan, develop, test, and deploy this platform with shared responsibilities and weekly progress syncs.
